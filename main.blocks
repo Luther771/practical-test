@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Jj/g=T-wXZr6C4$eQ^h8" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="cjx:q6p(Bt%[z]=+?SNZ"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # . 
+        . . . . # 
+        # # # # .
+        `</field><next><block type="device_pause" id="u%l%_;__rf_YT?DcmsoY"><value name="pause"><shadow type="timePicker" id="1(Y2vQ!9-QK,lhNG~Ghp"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id=",:d_(nUgF/Z=Sh,;X0X?"><field name="LEDS">`
+        . . # # . 
+        . # . # . 
+        # . . # . 
+        # # # # # 
+        . . . # .
+        `</field><next><block type="device_pause" id="PJB/ZKND,-$8K}PO#R8h"><value name="pause"><shadow type="timePicker" id="N1mK^w;DdC`fAd=h/;,@"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="PDpn77scNgZW3nEvUVV#"><field name="LEDS">`
+        # # # # . 
+        . . . # . 
+        . . # . . 
+        # . . # . 
+        . # # . .
+        `</field><next><block type="device_pause" id="rAG?`0wSM[{?#rIlQ313"><value name="pause"><shadow type="timePicker" id="nYB5!1JPQ?#qfu$2y3t_"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id=";2|7VEn@eaQO4O,G20Dn"><field name="LEDS">`
+        # # # . . 
+        . . . # . 
+        . # # . . 
+        # . . . . 
+        # # # # .
+        `</field><next><block type="device_pause" id="B[=TS8#5o2bhaEltm#[J"><value name="pause"><shadow type="timePicker" id="Hx.`!0v9H=;)AB?)HoB$"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="!u}2KlEI/5|LzfF*H[Uv"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_print_message" id="i%5[?*f3kR*?TV121YQp"><value name="text"><shadow type="text" id="n=D7,lA44R^7X8o4_pR("><field name="TEXT">Good</field></shadow></value><next><block type="device_pause" id="R2Gx+D!ae+-BHlg|6Y0="><value name="pause"><shadow type="timePicker" id="G==|hEYDJWg,UKNDgeB5"><field name="ms">200</field></shadow></value><next><block type="device_print_message" id="J99BdM/kiGxKc.5tMNxK"><value name="text"><shadow type="text" id="V]AjcX6_lL]a*7aByGI9"><field name="TEXT">Day!</field></shadow></value><next><block type="device_pause" id="Sg(TMF]ZNz,j=7ha196,"><value name="pause"><shadow type="timePicker" id="WH;Ivcj_b:7u-5ct3^k!"><field name="ms">200</field></shadow></value><next><block type="device_print_message" id="0Nfq6snpZ`fAY:lh0KC$"><value name="text"><shadow type="text" id="|wZHW$7%*bkf*VH(!EJ5"><field name="TEXT">I'M Proud</field></shadow></value><next><block type="device_pause" id="Wb8eG`Y!B93i`N@ZZmL0"><value name="pause"><shadow type="timePicker" id="oOQ1BsZt=m^Mt2NWfC#N"><field name="ms">200</field></shadow></value><next><block type="device_print_message" id="qkOU+Cp?mf*Nu{iZw^=D"><value name="text"><shadow type="text" id="P*aTdj8Yl-3;Mf]9lstk"><field name="TEXT">To Be Caritas Bosconian</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
